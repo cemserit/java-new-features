@@ -1,5 +1,5 @@
 # Java New Features
-##Java 7
+## Java 7
 - Multi catch
 - Try with resource
 - Diamond Operator
@@ -7,3 +7,8 @@
 - G1 garbage collector
 - New file api NIO
 - String in switch statement
+## Java 8
+## Java 9
+## Java 10
+## Java 11
+## Java 12
