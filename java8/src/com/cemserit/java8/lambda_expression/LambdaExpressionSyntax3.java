@@ -1,3 +1,5 @@
+package com.cemserit.java8.lambda_expression;
+
 /**
  * Created by cemserit on 2019-08-14.
  */

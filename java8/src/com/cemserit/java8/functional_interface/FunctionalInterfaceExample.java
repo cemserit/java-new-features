@@ -1,3 +1,5 @@
+package com.cemserit.java8.functional_interface;
+
 /**
  * Created by cemserit on 2019-08-14.
  */

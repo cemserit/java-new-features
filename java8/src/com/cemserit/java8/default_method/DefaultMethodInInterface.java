@@ -1,3 +1,5 @@
+package com.cemserit.java8.default_method;
+
 /**
  * Created by cemserit on 2019-08-14.
  */
