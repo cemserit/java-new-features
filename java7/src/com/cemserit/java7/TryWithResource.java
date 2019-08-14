@@ -1,4 +1,4 @@
-package com.cemserit.java8.java7;
+package com.cemserit.java7;
 
 import java.io.Closeable;
 
